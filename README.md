@@ -1,1 +1,1 @@
-# Stuttering-Python-Function
+# Stuttering-Python-Script
